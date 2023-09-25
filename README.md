@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vickyzhang7
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Computer Science at Boston University
+- 💞️ I’m looking to collaborate on any projects.
+- 📫 How to reach me:weiqi997998@gmail.com
