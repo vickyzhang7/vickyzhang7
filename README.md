@@ -1,25 +1,22 @@
-- 👋 Hi, I’m @vickyzhang7
-- 🌱 I’m currently learning Computer Science at Boston University
-- 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me:weiqi997998@gmail.com
-
-
 <h1 align="center">Hi 👋, I'm Vicky(Weiqi Zhang)</h1>
 <h3 align="center">A passionate full stack developer from US</h3>
 
 - 🔭 I have already finished [Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
 
-- 👏 I have already finished [Real-or-Fake-Facts Voting System](https://github.com/vickyzhang7/Real-or-Fake-Facts)
-
 - 🌱 I’m currently learning **swift**
+
+- 👏 I have already finished [Real-or-Fake-Facts Voting System](https://github.com/vickyzhang7/Real-or-Fake-Facts)
 
 - 🤝 I’m looking for collaborating **iOS Mobile App:DogGram**
 
-- 💬 Ask me about **JAVA, Python, JavaScript, MongoDB**
+- 💬 Ask me about **JAVA, Python, JavaScript,MongoDB**
+
+
+
+<h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **weiqi997998@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
