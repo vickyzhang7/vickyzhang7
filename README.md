@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vicky(Weiqi Zhang)</h1>
-<h3 align="center">A passionate full stack developer from US</h3>
+<h1 align="left">Hi 👋, I'm Vicky(Weiqi Zhang)</h1>
+<h3 align="left">A passionate full stack developer from US</h3>
 
 - 🔭 I have already finished [Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
 
@@ -15,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 How to reach me **weiqi997998@gmail.com**
+- 📫 How to reach me by email:**weiqi997998@gmail.com**
+
+- 📱 How to reach me by phone:**857-318-6984**
 
 <p align="left">
 </p>
