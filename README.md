@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 How to reach me by email:**weiqi997998@gmail.com**
+- 📫 How to reach me by email:**weiqi997998@gmail.com  or  weiqi@bu.edu**
 
 - 📱 How to reach me by phone:**857-318-6984**
 
