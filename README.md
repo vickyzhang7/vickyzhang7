@@ -3,13 +3,13 @@
 
 - 🔭 I have already finished [Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
 
-- 🌱 I’m currently learning **swift**
-
 - 👏 I have already finished [Real-or-Fake-Facts Voting System](https://github.com/vickyzhang7/Real-or-Fake-Facts)
 
 - 🤝 I’m looking for collaborating **iOS Mobile App:DogGram**
 
 - 💬 Ask me about **JAVA, Python, JavaScript,MongoDB**
+
+- 🌱 I’m currently learning Computer Science on Boston University
 
 
 
