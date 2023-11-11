@@ -6,6 +6,8 @@
 - 🔭 I have already finished [Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
 
 - 👏 I have already finished [Real-or-Fake-Facts Voting System](https://github.com/vickyzhang7/Real-or-Fake-Facts)
+  
+- 😃 I have already finished [Online Shopping Platform](https://github.com/vickyzhang7/Online-Shopping)
 
 - 🤝 I’m looking for collaborating **iOS Mobile App:DogGram**
 
