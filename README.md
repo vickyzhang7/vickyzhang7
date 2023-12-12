@@ -9,11 +9,9 @@
   
 - 😃 I have already finished [Online Shopping Platform](https://github.com/vickyzhang7/Online-Shopping)
 
-- 🤝 I’m looking for collaborating **iOS Mobile App:DogGram**
+- 😎 I have already finished [IOS Dog Gram Application](https://github.com/vickyzhang7/DogGramApp)
 
-- 💬 Ask me about **JAVA, Python, JavaScript, MongoDB**
-
-
+- 💬 Ask me about **JAVA, Python, JavaScript, MongoDB, Swift**
 
 
 
