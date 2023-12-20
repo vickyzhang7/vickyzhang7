@@ -11,7 +11,7 @@
 
 - 😎 I have already finished [IOS Dog Gram Application](https://github.com/vickyzhang7/DogGramApp)
 
-- 💬 Ask me about **JAVA, Python, JavaScript, MongoDB, Swift**
+- 💬 Ask me about **JAVA, Python, JavaScript, MongoDB, Swift, AWS**
   
 
 
