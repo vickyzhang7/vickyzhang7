@@ -1,15 +1,20 @@
 <h1 align="left">Hi 👋, I'm Vicky(Weiqi Zhang)</h1>
 <h3 align="left">A passionate full stack developer from US</h3>
 
-- 🌱 I’m currently learning Computer Science on Boston University
-  
-- 🔭 I have already finished [Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
+- 🌱 I’m currently learning Computer Science at Boston University
 
-- 👏 I have already finished [Real-or-Fake-Facts Voting System](https://github.com/vickyzhang7/Real-or-Fake-Facts)
-  
-- 😃 I have already finished [Online Shopping Platform](https://github.com/vickyzhang7/Online-Shopping)
+👏 For Full Stack Project, I have already finished :
 
-- 😎 I have already finished [IOS Dog Gram Application](https://github.com/vickyzhang7/DogGramApp)
+[Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
+
+[Real-or-Fake-Facts Voting System](https://github.com/vickyzhang7/Real-or-Fake-Facts)
+  
+[Online Shopping Platform](https://github.com/vickyzhang7/Online-Shopping)
+
+😃 For Frontend Project, I have already finished :
+
+[IOS Dog Gram Application](https://github.com/vickyzhang7/DogGramApp)
+
 
 - 💬 Ask me about **JAVA, Python, JavaScript, MongoDB, Swift, AWS**
   
