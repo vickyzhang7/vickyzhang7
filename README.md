@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Computer Science at Boston University
 
-- 👏 For Full Stack Project, I have already finished :
+- 👏 For Full Stack Website, I have already finished :
 
 [Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
 
@@ -11,7 +11,7 @@
   
 [Online Shopping Platform](https://github.com/vickyzhang7/Online-Shopping)
 
-- 😃 For Frontend Project, I have already finished :
+- 😃 For IOS Frontend Project, I have already finished :
 
 [IOS Dog Gram Application](https://github.com/vickyzhang7/DogGramApp)
 
