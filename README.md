@@ -11,9 +11,25 @@
   
 [Online Shopping Platform](https://github.com/vickyzhang7/Online-Shopping)
 
+- 🌟 For JAVA product, I have already finished:
+
+[Distributed Key-Value storage system](https://github.com/vickyzhang7/raft)
+
+[E-commerce system](https://github.com/vickyzhang7/Seckill-Mall)
+
 - 😃 For IOS Frontend Project, I have already finished :
 
 [IOS Dog Gram Application](https://github.com/vickyzhang7/DogGramApp)
+
+- 😊 For Four Paper dataset:
+
+[Pareto Distribution of the Forbes Billionaires](https://github.com/vickyzhang7/ParetoDistribution)
+
+[MAD-deviations for Hyperexponential and Hypoexponential Distributions](https://github.com/vickyzhang7/Hyperexponential-and-Hypoexponential-Distributions)
+
+[On the Use of Mean Absolute Deviations in Beta-PERT](https://github.com/vickyzhang7/PertDistribution)
+
+[Mean Absolute Deviation for Weibull Distribution](https://github.com/vickyzhang7/Mean-Absolute-Deviation-for-Weibull-Distribution)
 
 
 - 💬 Ask me about **JAVA, Python, JavaScript, MongoDB, Swift, AWS**
