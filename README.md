@@ -35,7 +35,7 @@
 [Mean Absolute Deviation for Weibull Distribution](https://github.com/vickyzhang7/Mean-Absolute-Deviation-for-Weibull-Distribution)
 
 
-- 💬 Ask me about **JAVA, Python, JavaScript, MongoDB, Swift, AWS**
+- 💬 Ask me about ** JavaScript, JAVA, Python, MongoDB, Swift, AWS**
   
 
 
