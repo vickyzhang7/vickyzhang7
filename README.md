@@ -5,13 +5,14 @@
 
 - 👏 For Full Stack Website, I have already finished :
 
-[Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
+MERN: [Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
 
-[Recipe Hub](https://github.com/vickyzhang7/React-Firebase)
+React+Firebase: [Recipe Hub](https://github.com/vickyzhang7/React-Firebase)
 
-[Real-or-Fake-Facts Voting System](https://github.com/vickyzhang7/Real-or-Fake-Facts)
+MWEN: [Real-or-Fake-Facts Voting System](https://github.com/vickyzhang7/Real-or-Fake-Facts)
   
-[Online Shopping Platform](https://github.com/vickyzhang7/Online-Shopping)
+MERN: [Online Shopping Platform](https://github.com/vickyzhang7/Online-Shopping)
+
 
 - 🌟 For JAVA product, I have already finished:
 
