@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning Computer Science at Boston University
 
-- 👏 For Full Stack Website, I have already finished :
+- 👏 For JavaScript Full Stack Website, I have already finished :
 
 MERN: [Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
 
 React+Firebase: [Recipe Hub](https://github.com/vickyzhang7/React-Firebase)
 
-MWEN: [Real-or-Fake-Facts Voting System](https://github.com/vickyzhang7/Real-or-Fake-Facts)
+MERN: [Real-or-Fake-Facts Voting System](https://github.com/vickyzhang7/Real-or-Fake-Facts)
   
 MERN: [Online Shopping Platform](https://github.com/vickyzhang7/Online-Shopping)
 
