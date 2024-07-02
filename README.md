@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning Computer Science at Boston University
 
+- 😊 This is the website I am currently interning on: [Innocuous AI (https://www.innocuous.ai/)
+
 - 👏 For JavaScript Full Stack Website, I have already finished :
 
 MERN: [Trip Share Website](https://github.com/vickyzhang7/Trip-share-website)
