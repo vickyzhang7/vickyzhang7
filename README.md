@@ -14,13 +14,14 @@ MERN: [Online Shopping Platform](https://github.com/vickyzhang7/Online-Shopping)
 React+Firebase: [Recipe Hub](https://github.com/vickyzhang7/React-Firebase)
 
 
+
 - 🌟 For JAVA product, I have already finished:
 
-[Distributed Key-Value storage system](https://github.com/vickyzhang7/raft)
+Java: [Distributed Key-Value storage system](https://github.com/vickyzhang7/raft)
 
-[E-commerce system 1 ](https://github.com/vickyzhang7/CS673FinalProject)
+Java: [E-commerce system 1 ](https://github.com/vickyzhang7/Seckill-Mall)
 
-[E-commerce system 2 ](https://github.com/vickyzhang7/Seckill-Mall)
+Angular+JAVA: [E-commerce system 2 ](https://github.com/vickyzhang7/CS673FinalProject)
 
 
 - 😃 For IOS Frontend Project, I have already finished :
