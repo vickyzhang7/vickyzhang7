@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Computer Science at Boston University
 
-- 😊 This is the website I am currently interning on: [Innocuous AI (https://www.innocuous.ai/)
+- 😊 This is the website I am currently interning on: [Innocuous AI](https://www.innocuous.ai/)
 
 - 👏 For JavaScript Full Stack Website, I have already finished :
 
